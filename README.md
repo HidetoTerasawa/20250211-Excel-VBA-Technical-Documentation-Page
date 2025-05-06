@@ -1,6 +1,6 @@
 ●タイトル：Excel VBAの技術ドキュメント
 
-●プレビュー：https://hidetoterasawa.github.io/20250211-Excel-VBA-Technical-Documentation-Page/
+●プレビュー：https://hidetoterasawa.github.io/Excel-VBA-Technical-Documentation-Page/
 
 ●概要：自己学習のため作成しました。
 Excel VBA（Visual Basic for Applications）に関する技術ドキュメント**をまとめたページです。
